@@ -1,0 +1,6 @@
+Language: Python 3.x.  
+Logic: Uses random for word selection, while loops for game state, and if-else for validation.  
+Input: Basic console-based text input.  
+Constraints: * Limit of 6 incorrect guesses.  
+Fixed list of 5 predefined words.  
+No external APIs or file dependencies.

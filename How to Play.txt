@@ -1,0 +1,6 @@
+Start: Run the script in your terminal or IDE.
+Guess: Type a single letter and press Enter.
+Correct Guess: If the letter is in the word, it will appear in its correct position.  
+Incorrect Guess: If the letter is not in the word, your "Attempts remaining" will decrease by one.  
+Winning: Guess all the letters in the secret word before your attempts run out.  
+Losing: If you reach 6 incorrect guesses, the game ends and reveals the secret word.
